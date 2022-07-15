@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProCare", "Receptionist\ProCare.csproj", "{3592956C-753D-49CA-A9AC-12E3C74C6653}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{4FF4302C-83C6-4B1E-B89E-520A02D94155}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ProCare_Setup", "ProCare_Setup\ProCare_Setup.vdproj", "{326CEA28-8A80-4B27-9C1C-DE69A81F1C41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3592956C-753D-49CA-A9AC-12E3C74C6653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3592956C-753D-49CA-A9AC-12E3C74C6653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3592956C-753D-49CA-A9AC-12E3C74C6653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3592956C-753D-49CA-A9AC-12E3C74C6653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FF4302C-83C6-4B1E-B89E-520A02D94155}.Debug|Any CPU.ActiveCfg = Debug
+		{4FF4302C-83C6-4B1E-B89E-520A02D94155}.Release|Any CPU.ActiveCfg = Release
+		{326CEA28-8A80-4B27-9C1C-DE69A81F1C41}.Debug|Any CPU.ActiveCfg = Debug
+		{326CEA28-8A80-4B27-9C1C-DE69A81F1C41}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B99D7949-CD12-4F12-AC23-206C76F2C5C9}
+	EndGlobalSection
+EndGlobal
